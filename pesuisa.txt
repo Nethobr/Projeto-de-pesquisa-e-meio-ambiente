@@ -256,4 +256,45 @@ PERGUNTA 05
 		* não (0%)
 		* sem resposta (33%)
 
+PERGUNTA 06
+	- Trabalhadores > total (5):
+		* boa (0%)
+		* ruim (100%)
+		* sem resposta (0%)
+	
+	- Moradores > total (4):
+		* boa (0%)
+		* ruim (100%)
+		* sem resposta (0%)
 
+	- Usuários > total (3):
+		* boa (66%)
+		* ruim (33%)
+		* sem resposta (0%)
+PERGUNTA 07
+	- Trabalhadores > total (5):
+		* sim (80%)
+		* não (20%)
+		* sem resposta (0%)
+	
+	- Moradores > total (4):
+		* sim (0%)
+		* não (0%)
+		* sem resposta (100%)
+
+	- Usuários > total (3):
+		* sim (66%)
+		* não (33%)
+		* sem resposta (0%)
+
+PERGUNTA 08
+	- Trabalhadores > total (5):
+		* muito (80%)
+		* pouco (20%)
+		* sem resposta (0%)
+
+PERGUNTA 09
+	- Trabalhadores > total (5):
+		* sim (60%)
+		* não (40%)
+		* sem resposta (0%)
