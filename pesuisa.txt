@@ -142,8 +142,118 @@ PERGUNTA 9
 		* não (33%)
 		* sem resposta (66%)
 
-PERGUNTA 10...
+PERGUNTA 10
+	- Trabalhadores > total (5):
+		* sim (0%)
+		* não (100%)
+		* sem resposta (0%)
+	
+	- Moradores > total (4):
+		* sim (0%)
+		* não (0%)
+		* sem resposta (100%)
 
+	- Usuários > total (3):
+		* sim (0%)
+		* não (66%)
+		* sem resposta (33%)
 
+PERGUNTA 11
+	- Trabalhadores > total (5):
+		* sim (14%)
+		* não (57%)
+		* sem resposta (28%)
+	
+	- Moradores > total (4):
+		* sim (0%)
+		* não (75%)
+		* sem resposta (25%)
+
+	- Usuários > total (3):
+		* sim (33%)
+		* não (33%)
+		* sem resposta (33%)
+
+FOCADAS:
+
+PERGUNTA 01
+	- Trabalhadores > total (5):
+		* pouco (100%)
+		* muito (0%)
+		* sem resposta (0%)
+	
+	- Moradores > total (4):
+		* pouco (100%)
+		* muito (0%)
+		* sem resposta (0%)
+
+	- Usuários > total (3):
+		* pouco (100%)
+		* muito (0%)
+		* sem resposta (0%)
+
+PERGUNTA 02
+	- Trabalhadores > total (5):
+		* sim (80%)
+		* não (20%)
+		* sem resposta (0%)
+	
+	- Moradores > total (4):
+		* sim (75%)
+		* não (25%)
+		* sem resposta (0%)
+
+	- Usuários > total (3):
+		* sim (100%)
+		* não (0%)
+		* sem resposta (0%)
+
+PERGUNTA 03
+	- Trabalhadores > total (5):
+		* sim (60%)
+		* não (20%)
+		* sem resposta (20%)
+	
+	- Moradores > total (4):
+		* sim (25%)
+		* não (25%)
+		* sem resposta (50%)
+
+	- Usuários > total (3):
+		* sim (33%)
+		* não (66%)
+		* sem resposta (0%)
+
+PERGUNTA 04
+	- Trabalhadores > total (5):
+		* sim (100%)
+		* não (0%)
+		* sem resposta (0%)
+	
+	- Moradores > total (4):
+		* sim (0%)
+		* não (25%)
+		* sem resposta (75%)
+
+	- Usuários > total (3):
+		* sim (66%)
+		* não (33%)
+		* sem resposta (0%)
+
+PERGUNTA 05
+	- Trabalhadores > total (5):
+		* sim (80%)
+		* não (0%)
+		* sem resposta (20%)
+	
+	- Moradores > total (4):
+		* sim (0%)
+		* não (0%)
+		* sem resposta (100%)
+
+	- Usuários > total (3):
+		* sim (66%)
+		* não (0%)
+		* sem resposta (33%)
 
 
